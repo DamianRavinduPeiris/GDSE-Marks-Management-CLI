@@ -1,4 +1,4 @@
-# 📚✏️ `GDSE-Marks Management CLI.`
+# ✏️ `GDSE-Marks Management CLI.`
 
 
 
