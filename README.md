@@ -1,9 +1,8 @@
-# GDSE-Marks-Management-CLI.
+# `GDSE-Marks Management CLI.`
 
 
 
-
-## Simple marks management system written in Java - CLI Version.
+## Simple marks management system written in `Java` - `CLI Version.`
 
 
 
