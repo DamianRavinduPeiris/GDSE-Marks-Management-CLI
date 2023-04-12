@@ -2,7 +2,7 @@
 
 
 
-## 💡 Simple marks management system written in `Java` - `CLI Version.`
+## 💡 Simple marks management system written in `Java`.
 
 
 
