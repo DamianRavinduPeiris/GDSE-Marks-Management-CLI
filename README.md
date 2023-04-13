@@ -2,7 +2,7 @@
 
 
 
-## 💡 Simple marks management system written in `Java`.
+## 💡 *Simple marks management system written in `Java`.*
 
 
 
